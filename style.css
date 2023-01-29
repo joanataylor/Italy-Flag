@@ -1,0 +1,26 @@
+.flag{
+  border: 2px solid black;
+  height: 500 px;
+  width: 910px;
+}
+
+.box1{
+  height: 500px;
+  width: 300px;
+  background-color: green;
+  display: inline-block;
+}
+
+.box2{
+  height: 500px;
+  width: 300px;
+  background-color: white;
+  display: inline-block;
+}
+
+.box3{
+  height: 500px;
+  width: 300px;
+  background-color: red;
+  display: inline-block;
+}
